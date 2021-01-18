@@ -93,5 +93,3 @@ As we begin to build complex web applications using Sinatra and Rails, this
 pattern of inheritance will become familiar. In fact, we'll use an ORM tool
 called Active Record that handles *all* of the ORM interactions for us, and
 we'll simply inherit our Ruby classes from Active Record's classes.
-
-
